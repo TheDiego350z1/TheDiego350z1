@@ -3,6 +3,7 @@
 ## **Tecnologías actualmente aprendiendo:** 
  - Angular
  - Laravel
+ - Tailwind
 
 <!---
 TheDiego350z1/TheDiego350z1 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
